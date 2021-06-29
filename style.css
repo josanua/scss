@@ -14,6 +14,8 @@ body {
 }
 
 .block {
+  width: 31.25%;
+  background: #ccc;
   padding: 30px;
   line-height: 60px;
 }
@@ -41,6 +43,9 @@ body {
 }
 
 .link-2 {
+  font-size: 100px;
+  color: green;
+  border-bottom: 5px dashed #000;
   font-size: 80px;
 }
 /*# sourceMappingURL=style.css.map */
